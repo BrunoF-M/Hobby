@@ -1,0 +1,312 @@
+body {
+    background-color: rgb(55, 118, 160);
+}
+
+
+
+h1,p {
+    text-align: center;
+}
+
+/*/ # PRA ID ####  //// Pra CLASS . . . . . . .... /*/
+
+#h1index {
+    font-family: 'Indie Flower', cursive;
+    text-decoration: underline;
+    border-top: solid rgb(68, 145, 197);
+    border-left: solid rgb(68, 145, 197);
+    border-right: solid rgb(68, 145, 197);
+    border-radius: 50%;
+    margin: 55px;
+
+    box-shadow:2px 2px 2px 2px black;
+}
+
+#p00, #p01, #p02, #p03 {
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 20px;
+    border: solid rgb(155, 155, 1);
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 95px;
+    border-radius: 15px;
+    color: rgb(155, 155, 1);
+}
+
+#p01 {
+    font-size: 30px;
+    background-color: #8cf8f8;
+    border: solid red;
+    margin: 50px;
+    padding: 20px;
+    width: 250px;
+    box-shadow: 0 25px 10px -8px #666666,
+        0 0 0 50px rgb(140, 181, 247);
+    border-radius: 50px;
+    margin-left: 100px;
+}
+
+#p02 {
+    font-size: 25px;
+    background-color: rgb(92, 225, 65);
+    border: solid red;
+    margin: 50px;
+    padding: 20px;
+    width: 250px;
+    box-shadow: 0 25px 10px -8px #666666,
+        0 0 0 50px rgb(140, 181, 247);
+    border-radius: 50px;
+    margin-left: 500px;
+}
+
+#p03 {
+    font-size: 20px;
+    background-color: rgb(204, 0, 255);
+    border: solid red;
+    margin: 50px;
+    padding: 20px;
+    width: 250px;
+    box-shadow: 0 25px 10px -8px #666666,
+        0 0 0 50px rgb(140, 181, 247);
+    border-radius: 50px;
+    margin-left: 900px;
+}
+
+/*pagina inicial index acima /// PAGINA NUMERO 1 a baixo*/
+
+#body01 {
+    background-image: linear-gradient(
+        #8cf8bd 0%,
+        #306648 25%,
+        #308657 50%,
+        #2a573e 51%,
+        #8efabf 100%
+      );
+    
+}
+
+#p11, #p12, #p13{
+    border: solid black;
+    border-radius: 3px;
+    background-color: cadetblue;
+    width: 15%;
+    margin-left: 550px;
+}
+
+.classcod, .classgta, .classgh3{
+    text-align: center;
+}
+
+#cod {
+    font-family: 'Dela Gothic One', cursive;
+    text-shadow: 2px 2px 2px rgb(49, 49, 49);
+    font-size: 25px;
+}
+
+#codwall {
+    border: solid rgb(109, 47, 47);
+    box-shadow: 5px 5px 5px  black;
+}
+
+#p111 {
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* /// */
+
+#gta {
+    font-family: 'Franklin Gothic Medium';
+    text-shadow: 2px 2px 2px rgb(61, 61, 61);
+    font-size: 25px;
+}
+
+#gtawall {
+    border: solid rgb(22, 40, 141);
+    box-shadow: 5px 5px 5px  black;    
+}
+
+#p112 {
+    font-size: 24px;
+    font-family: monospace;
+}
+
+/* /// */
+
+#gh3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 2px 2px 2px rgb(61, 61, 61);
+    font-size: 25px;
+}
+
+#gh3wall {
+    border: solid rgb(56, 141, 22);
+    box-shadow: 5px 5px 5px  black;     
+}
+
+#p113 {
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Pagina numero 2 abaixo */
+
+#body02 {
+    background-image: linear-gradient(
+        #2dc560da 0%,
+        #1f8d44da 25%,
+        #1c753ada 50%,
+        #24a34fda 51%,
+        #2dc560da 100%
+      );
+    
+}
+
+#p11, #p12, #p13{
+    border: solid black;
+    border-radius: 3px;
+    background-color: cadetblue;
+    width: 15%;
+    margin-left: 550px;
+}
+
+.classale, .classps5, .classfol{
+    text-align: center;
+}
+
+/* titulo do negocio que eu coloquei */
+#alexa {
+    font-family: 'Dela Gothic One', cursive;
+    text-shadow: 2px 2px 2px rgb(49, 49, 49);
+    font-size: 25px;
+}
+
+/* a borda em volta da foto que eu escolhi */
+#alexawall {
+    border: solid rgb(109, 47, 47);
+    box-shadow: 5px 5px 5px  black;
+}
+
+/* descrevendo o negocio */
+#p111alexa {
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* ==== */
+
+#ps5 {
+    font-family: 'Franklin Gothic Medium';
+    text-shadow: 2px 2px 2px rgb(61, 61, 61);
+    font-size: 25px;
+}
+
+#ps5wall {
+    border: solid rgb(22, 40, 141);
+    box-shadow: 5px 5px 5px  black;    
+}
+
+#p112ps5 {
+    font-size: 24px;
+    font-family: monospace;
+}
+
+/* === */
+
+#fol {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 2px 2px 2px rgb(61, 61, 61);
+    font-size: 25px;
+}
+
+#folwall {
+    border: solid rgb(56, 141, 22);
+    box-shadow: 5px 5px 5px  black;     
+}
+
+#p113fol {
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* ==== */
+
+#body03 {
+    background-image: linear-gradient(
+        #56a826dc 0%,
+        #42831ddc 25%,
+        #336416dc 50%,
+        #499120dc 51%,
+        #69ce2edc 100%
+      );
+    
+}
+
+#p11, #p12, #p13{
+    border: solid black;
+    border-radius: 3px;
+    background-color: cadetblue;
+    width: 15%;
+    margin-left: 550px;
+}
+
+.classjui, .classtri, .classuzi{
+    text-align: center;
+}
+
+#juice {
+    font-family: 'Dela Gothic One', cursive;
+    text-shadow: 2px 2px 2px rgb(49, 49, 49);
+    font-size: 25px;
+}
+
+/* a borda em volta da foto que eu escolhi */
+#juiwall {
+    border: solid rgb(22, 40, 141);
+    box-shadow: 5px 5px 5px  black; 
+}
+
+/* descrevendo o negocio */
+#p111jui {
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* === */
+
+#trippie {
+    font-family: 'Franklin Gothic Medium';
+    text-shadow: 2px 2px 2px rgb(61, 61, 61);
+    font-size: 25px;
+}
+
+#triwall {
+    border: solid rgb(109, 47, 47);
+    box-shadow: 5px 5px 5px  black;
+}
+
+#p112tri {
+    font-size: 24px;
+    font-family: monospace;
+}
+
+/* === */
+
+#liluzi {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 2px 2px 2px rgb(61, 61, 61);
+    font-size: 25px;
+}
+
+#uziwall {
+    border: solid rgb(56, 141, 22);
+    box-shadow: 5px 5px 5px  black;     
+}
+
+#p113uzi{
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* === */
+
